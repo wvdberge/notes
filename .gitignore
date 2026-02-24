@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Obsidian workspace (local only)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Attachments (images, PDFs — not synced via git)
+attachments/
