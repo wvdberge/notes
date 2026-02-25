@@ -1,0 +1,1 @@
+Welke uren gebruiken we bij prediction met polis? Is dit gewerkte uren of contract? Hoe kan contracturen zo goed voorspellen? 
