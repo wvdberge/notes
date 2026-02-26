@@ -1,0 +1,3 @@
+the conceptual distinction between health-driven and skills-driven DI entry is a generalizable insight worth a permanent note. It connects to the broader theme of programs designed for one risk type being
+  repurposed for another when no better alternative exists (DI for structural unemployment, UI for cyclical demand shocks, etc.). This pattern recurs across social insurance systems and seems like something you think about across your
+  projects.
