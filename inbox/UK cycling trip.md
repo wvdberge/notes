@@ -46,3 +46,42 @@ Day 12: Newcastle to Ferry (~15 km)
  * Logistics: Board the afternoon ferry back to the Netherlands.
 Day 13: Arrival in IJmuiden
 Ferry arrives in the morning for your final journey home.
+
+
+
+
+Hotels
+Here is the current status of the accommodations we have explored for your 12-day trip, based on your requirements for child-friendliness, bike security, and a "cozy" atmosphere.
+
+### ​**1. Carlisle (2 Nights)**
+
+- ​**Kates Guest House:** Shortlisted. Homely and cute; availability for August needs to be confirmed.
+- ​**Premier Inn Central:** Shortlisted (~£230/270 EUR). Reliable fallback; allows bikes/trailers in the room.
+- ​**Abbey Court:** Option (~330 EUR). Award-winning, but on the pricier side.
+- ​**Out:** Langleigh (Full), Cornerways (Adults only), City Hostel (Closed).
+
+### ​**2. Brampton (2 Nights)**
+
+- ​**The Belted Will Inn:** Shortlisted (~130–170 EUR). Traditional pub/inn style with secure indoor storage and family rooms.
+- ​**Out:** String of Horses (>400 EUR), Scotch Arms Mews (~360 EUR), Abbey Farm (Adults only).
+
+### ​**3. Haltwhistle (2 Nights)**
+
+- ​**Ashcroft Guest House:** Highly recommended for cyclists; has a secure garage and drying room.
+- ​**Manor House Hotel:** Traditional inn right in the center; cozy pub vibe.
+- ​**Center of Britain Hotel:** Quirky and historic; located on the main street.
+- ​_Status: We need to check August pricing and availability for these._
+
+### ​**4. Hexham / Corbridge (1 Night)**
+
+- ​_Status: Not yet explored._ This is the stop after your hilliest riding day.
+
+### ​**5. Newcastle (2 Nights)**
+
+- ​_Status: Not yet explored._ This will be your final base before the ferry.
+
+### ​**Summary of Logistics**
+
+- ​**Mode:** West to East (Carlisle to Newcastle) + Ferry from North Shields.
+- ​**Daily Pace:** ~40 km/day.
+- ​**Transport:** Train from Newcastle to Carlisle on Day 2 (convert Thule to stroller for boarding)
