@@ -72,7 +72,8 @@ Here is the current status of the accommodations we have explored for your 12-da
 - ​**Center of Britain Hotel:** Quirky and historic; located on the main street.
 - ​_Status: We need to check August pricing and availability for these._
 
-### ​**4. Hexham / Corbridge (1 Night)**
+### ​**4. Hexham / Corbridge (2 Nights)**
+
 
 - ​_Status: Not yet explored._ This is the stop after your hilliest riding day.
 
