@@ -1,0 +1,2 @@
+What jumps out is how quickly 'managing AIs' becomes another room where we're expected to be coherent and composed before we've built any shared norms for doing that. We're reshaping work structures faster than we're reshaping the stories people tell themselves about their own agency inside those structures. That gap, the curve outpacing the human narrative, is where a lot of the coming whiplash will live. (https://www.oneusefulthing.org/p/the-shape-of-the-thing?utm_source=tldrai)
+
